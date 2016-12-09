@@ -8,4 +8,4 @@ Christiansen & Greenberg (2012).
 
 # Notes
 
-SINFA is a method that can provide analyses of the relative information transfer rates between features (Wang & Bilger, 1973.
+SINFA is a method that can provide analyses of the relative information transfer rates between features (Wang & Bilger, 1973).
