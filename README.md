@@ -1,4 +1,4 @@
-# ite-R
+# iteR
 A package for computing Information Transfer rate and Entropy on confusion matrices in R
 
 This packages will provide functions for the computation of Information Transfer
