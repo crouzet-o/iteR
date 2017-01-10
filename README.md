@@ -1,4 +1,4 @@
-# i(nformation) t(ransmission and) e(ntropy with) R
+# information transmission and entropy with R
 
 A package for computing Information Transfer rates / Mutual Information and Entropy in R
 
