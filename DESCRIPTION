@@ -1,0 +1,25 @@
+Package: iteR
+Type: Package
+Title: Information Transfer Rate estimation for Confusion Matrices
+Version: 0.0.0.9001
+Authors@R: c(
+  person("Crouzet", "Olivier",
+    email = "olivier.crouzet@univ-nantes.fr", role = c("cre", "aut")),
+  person("Université de Nantes - CNRS - UMR6310 <2020-2030>", role = "cph")
+  )
+Description: The iteR package provides tools for the manipulation and analysis
+    of confusion matrices as used in human and machine classification experiments.
+    One of its main uses is for the computation of Miller & Nicely's (1955) raw
+    and normalized Information Transfer rate computations for NxN-class confusion
+    matrices (See also Christiansen & Greenberg, 2005 for a more recent usage).
+    The package also provides tools for facilitating the manipulation of confusion
+    matrices (e.g. turning an NxN-class confusion matrix into a 2x2, 3x3... MxM
+    (with M<N) confusion matrix.
+License: GPL-3
+LazyData: TRUE
+Suggests:
+    caret,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 5.0.1

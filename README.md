@@ -1,9 +1,18 @@
-# ite-R
-A package for computing Information Transfer Rate on confusion matrices in R
 
-This packages provides functions for the computation of Information Transfer
-Rates in Confusion Matrices as described in Miller & Nicely (1955). See also
-Christiansen & Greenberg (2005).
+<!-- README.md is generated from README.Rmd. Please only edit the .Rmd file -->
 
+# Information Transmission and Entropy with R
 
+A package for computing Information Transfer rates / Mutual Information
+and Entropy in R
 
+This package is currently in active development. It has been designed
+for linguists as well as speech and cognitive scientists and will
+provide functions for the computation of Information Transfer Rates in
+Confusion Matrices as described in Miller & Nicely (1955) and, later, in
+Christiansen & Greenberg (2012) as well as for the computation of Mutual
+Information in coarticulated speech (Iskarous et al, 2013).
+
+Although some packages exist that already provide access to such tools
+(entropy, infotheo) the aim of the current package is to provide a
+simplified interface for linguists and speech scientists.
