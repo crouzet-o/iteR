@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <!-- README.md is generated from README.Rmd. Please only edit the .Rmd file -->
 
@@ -5,6 +6,10 @@
 
 A package for computing Information Transfer rates / Mutual Information
 and Entropy in R
+=======
+# information transmission and entropy with R
+
+A package for computing Information Transfer rates / Mutual Information and Entropy in R
 
 This package is currently in active development. It has been designed
 for linguists as well as speech and cognitive scientists and will
