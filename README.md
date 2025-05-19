@@ -1,15 +1,10 @@
-<<<<<<< HEAD
 
 <!-- README.md is generated from README.Rmd. Please only edit the .Rmd file -->
 
-# Information Transmission and Entropy with R
+# iteR: **I**nformation **T**ransmission and **E**ntropy with **R**
 
 A package for computing Information Transfer rates / Mutual Information
 and Entropy in R
-=======
-# information transmission and entropy with R
-
-A package for computing Information Transfer rates / Mutual Information and Entropy in R
 
 This package is currently in active development. It has been designed
 for linguists as well as speech and cognitive scientists and will
@@ -21,3 +16,7 @@ Information in coarticulated speech (Iskarous et al, 2013).
 Although some packages exist that already provide access to such tools
 (entropy, infotheo) the aim of the current package is to provide a
 simplified interface for linguists and speech scientists.
+
+Vous pouvez [consulter le poster
+présenté](/confs/poster-rencontresR-2025-iteR.pdf) lors des [Rencontres
+R 2025](https://rr2025.sciencesconf.org/?lang=fr).
